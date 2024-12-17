@@ -1,0 +1,7 @@
+requests
+openai
+faiss-cpu
+python-dotenv
+numpy
+PyPDF2
+streamlit
